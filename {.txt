@@ -1,0 +1,5 @@
+{
+  "nome": "Administrador",
+  "email": "admin@bookflow.com",
+  "senha": "BookFlow@2026"
+}

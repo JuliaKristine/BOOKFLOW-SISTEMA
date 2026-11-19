@@ -1,0 +1,34 @@
+Trabalho: "Projeto de Software/Sistema" - Valor: 50 pontos [até 23/nov/2026].
+
+Trabalho: "Projeto de Desenvolvimento de Software/Sistema" - Valor: 50 pontos [até 23/nov/2026]. Objetivo: desenvolver principais processos de desenvolvimento de software/sistema, escolha conforme opções do tópico "Opções de Sistemas", logo abaixo. Sugestões de Sistemas:
+Sistema de Venda ou Aluguel de Imóvel para Imobiliária;
+Sistema para Escritório de Advocacia;
+Sistema de Agendamento de Consulta Médica;
+Sistema de Empréstimo/Reserva de Livro para a Biblioteca;
+Sistema de Empréstimo/Locação de Ferramenta ou Máquina;
+Plataforma de Trocas e Vendas de Produto Usado;
+Sistema de Agendamento para Salão de Beleza e Barbearia.
+ORIENTAÇÕES E ETAPAS
+
+Escolha do Sistema
+
+Escolham, em grupo de 3 ou 4 pessoas, um dos sistemas propostos acima.
+Definição de Problema(s) e(ou) Oportunidade(s)
+
+Com o sistema escolhido para ser construído, defina um ou mais problema(s) específico(s) que o software/sistema irá tratar ou resolver. Descrevam o(s) problema(s) e(ou) oportunidade(s) por escrito.
+Análise de Requisitos
+A próxima etapa é analisar profundamente para entender o que o software/sistema precisa fazer para resolver/tratar o(s) problema(s) ou oportunidade(s). Apliquem Técnicas de Análise de Sistemas para coletar os Requisitos do Sistema.
+Com base na nos Requisitos Coletados, elaborem o documento de "Especificação dos Requisitos de Sistema".
+Projeto
+
+Com os requisitos do software/sistema, elabore um projeto para o software - faça:
+- Criação interfaces do usuário construídos no FIGMA ou ferramenta relacionada;
+- Modelagem do Banco de Dados - Modelos: Conceitual, Lógico e Físico;
+- Script do SQL relacionado ao item anterior, gerado pelo MySQL Workbench ou outra ferramenta de modelagem/desenvolvimento de Banco de Dados;
+- Diagramas UML: Diagramas de Classe, Diagrama de Casos de Usos, Diagramas de Sequências;
+- E outro(s) diagrama(s) que se fizer necessário.
+Implementação
+Planejamento da Implementação
+Detalhe como seriam abordadas/gerenciadas principais funcionalidades que seriam programadas, por exemplo:  Metodologia Ágil, Programação em Par, Métricas de Software/Sistema, Métricas de Qualidade de Software (cobertura de testes, densidade de defeitos, taxa de fuga de defeitos, Tempo Médio para Detecção (MTTD), Tempo Médio para Reparo ou Resolução (MTTR), Total de Defeitos Detectados (TDD) vs. Removidos (TDR), Satisfação do usuário (NPS / CSAT), métricas DORA (DevOps Research and Assessment), etc.), Técnicas de Estimativa Software/Sistema (Story Points, Três Pontos (PERT), Análise de Pontos de Função (APF), etc.).
+
+O bom planejamento da implementação é essencial  para o desenvolvimento da codificação de software/sistema.
